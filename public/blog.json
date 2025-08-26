@@ -1,0 +1,72 @@
+[
+    {
+        "id": "p-001",
+        "cover": "https://i.ibb.co.com/N23tnRTT/abstract-autumn-beauty-multi-colored-leaf-vein-pattern-generated-by-ai.jpg",
+        "title": "The Future of Web Development",
+        "author": "Sarah Ahmed",
+        "authorImg": "https://i.ibb.co.com/zTX0fnn2/Whats-App-Image-2025-06-12-at-12-57-14-AM.jpg",
+        "postDate": "2025-08-10",
+        "readingTime": "6 min read",
+        "hashtags": [
+            "#WebDev",
+            "#JavaScript",
+            "#ReactJS"
+        ]
+    },
+    {
+        "id": "p-002",
+        "cover": "https://i.ibb.co.com/6J4qZd9Y/view-old-tree-lake-with-snow-covered-mountains-cloudy-day.jpg",
+        "title": "Mastering React in 30 Days",
+        "author": "John Rahman",
+        "authorImg": "https://i.ibb.co.com/zTX0fnn2/Whats-App-Image-2025-06-12-at-12-57-14-AM.jpg",
+        "postDate": "2025-07-28",
+        "readingTime": "8 min read",
+        "hashtags": [
+            "#React",
+            "#Frontend",
+            "#Coding"
+        ]
+    },
+    {
+        "id": "p-003",
+        "cover": "https://i.ibb.co.com/Y4QCzcJB/morskie-oko-tatry.jpg",
+        "title": "10 Tips for Writing Clean JavaScript",
+        "author": "Mina Chowdhury",
+        "authorImg": "https://i.ibb.co.com/zTX0fnn2/Whats-App-Image-2025-06-12-at-12-57-14-AM.jpg",
+        "postDate": "2025-06-15",
+        "readingTime": "5 min read",
+        "hashtags": [
+            "#JavaScript",
+            "#BestPractices",
+            "#CleanCode"
+        ]
+    },
+    {
+        "id": "p-004",
+        "cover": "https://i.ibb.co.com/Mk4yvX6x/old-rusty-fishing-boat-slope-along-shore-lake.jpg",
+        "title": "Why Tailwind CSS is a Game Changer",
+        "author": "Rakibul Hasan",
+        "authorImg": "https://i.ibb.co.com/zTX0fnn2/Whats-App-Image-2025-06-12-at-12-57-14-AM.jpg",
+        "postDate": "2025-05-22",
+        "readingTime": "7 min read",
+        "hashtags": [
+            "#Tailwind",
+            "#CSS",
+            "#UIUX"
+        ]
+    },
+    {
+        "id": "p-005",
+        "cover": "https://i.ibb.co.com/ynSqf1st/aerial-beautiful-shot-seashore-with-hills-background-sunset.jpg",
+        "title": "Exploring Node.js for Beginners",
+        "author": "Nadia Karim",
+        "authorImg": "https://i.ibb.co.com/zTX0fnn2/Whats-App-Image-2025-06-12-at-12-57-14-AM.jpg",
+        "postDate": "2025-04-30",
+        "readingTime": "9 min read",
+        "hashtags": [
+            "#NodeJS",
+            "#Backend",
+            "#Programming"
+        ]
+    }
+]
