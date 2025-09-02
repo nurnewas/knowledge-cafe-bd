@@ -1,9 +1,12 @@
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faBookmark as faSolidBookmark } from "@fortawesome/free-solid-svg-icons";
+import { faBookmark as faRegularBookmark } from "@fortawesome/free-regular-svg-icons";
 const Blog = ({ blogs }) => {
   const { author, authorImg, title, postDate, readingTime, cover, hashtags } =
     blogs;
   return (
-    <div>
-      <img src={cover} alt="" />
+    <div className="mb-20">
+      <img className="w-full" src={cover} alt="" />
       <div className="flex justify-between">
         <div>
           <div className="flex gap-4 mt-2 ">
@@ -21,6 +24,11 @@ const Blog = ({ blogs }) => {
         </div>
         <div>
           <span>📅| ⏱ {readingTime}</span>
+          {/* Solid (filled) */}
+          <FontAwesomeIcon icon={faSolidBookmark} />
+
+          {/* Regular (outline) */}
+          <FontAwesomeIcon icon={faRegularBookmark} />
         </div>
       </div>
       <h1>Post title: {title}</h1>

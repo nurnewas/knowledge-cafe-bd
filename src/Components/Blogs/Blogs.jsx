@@ -10,7 +10,7 @@ const Blogs = () => {
       .then((data) => setBlogs(data));
   });
   return (
-    <div className="md:w-2/3">
+    <div className="md:w-8/12">
       <h1>Blogs</h1>
       <img src="" alt="" />
       <h3>blog: {blogs.length}</h3>

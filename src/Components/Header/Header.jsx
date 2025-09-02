@@ -1,7 +1,7 @@
 import profile from "../../assets/images/profile.png";
 const Header = () => {
   return (
-    <div>
+    <div claasName="mx-w-6xl mx-auto">
       <header className="flex justify-between p-4 mx-4">
         <h1>Knowledge Cafe BD</h1>
         <img src={profile} alt="" />
